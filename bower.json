@@ -1,0 +1,22 @@
+{
+  "name": "Oath-Client_angular",
+  "homepage": "https://github.com/alonp99/Oath",
+  "authors": [
+    "Alon Peretz <alonp@iron-buzz.com>"
+  ],
+  "description": "Oath - Universal Promises (client:angular)",
+  "main": "https://github.com/alonp99/Oath-Server",
+  "keywords": [
+    "promise",
+    "server",
+    "client"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
