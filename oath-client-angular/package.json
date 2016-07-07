@@ -1,0 +1,14 @@
+{
+  "name": "oath-server-angular",
+  "version": "0.1.0",
+  "description": "Oath - Universal Promise (Client - angular)",
+  "main": "dist/oath-client.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Alon Peretz <alonp99@gmail.com>",
+  "license": "MIT"
+}
